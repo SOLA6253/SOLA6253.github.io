@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SOLA6253.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-01-01T01:53:49.229Z</updated>
+    <title>SOLA</title>
+    <updated>2021-01-01T02:12:16.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SOLA6253.github.io"/>
     <link rel="self" href="https://SOLA6253.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://SOLA6253.github.io/images/avatar.png</logo>
     <icon>https://SOLA6253.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, SOLA</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://SOLA6253.github.io/post/hello-gridea/</id>
